@@ -7,3 +7,4 @@ if new_patient == "yes":
     print("Welcome to PyHospital" + name + "!")
 else:
     print("Sorry to see you here again. How can I help you today" + name +"?")
+
