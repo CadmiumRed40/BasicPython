@@ -19,6 +19,7 @@ for _ in range(num_students):
 students.append(student)
 
 print("Thank you for entering student infomation")
+print("-" * 30)
 
 for student in students:
     print("Name:", student['name'])
