@@ -7,3 +7,6 @@ def printBoard(board):
     print('-' * 5 )
     print(board['low-L'] + '|' + board['low-M'] + '|' + board['low-R'])
 
+solutions = []
+
+player = input("Are you X or O? ")
