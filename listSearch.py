@@ -27,4 +27,3 @@ for student in students:
     print("Grade:", student['grade'])
     print("Email:", student['email'])
     print('-' * 30)
-
