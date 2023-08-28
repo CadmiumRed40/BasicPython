@@ -12,6 +12,12 @@ solutions = []
 
 #Choosing player
 def choosingPlayer(player):
-    while player not in ["X", "O"]:
+    while True: 
         player = input("Are you X or O: ").upper()
-    return player
+        if player == 'X':
+            return 'x'
+        elif player =='O':
+            return 'o'
+        else:
+            print("Thats not X or O. Choose one.")
+            continue
