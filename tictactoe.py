@@ -1,3 +1,4 @@
+# the board itself
 theBoard = {'top-L': ' ', 'top-M' : ' ', 'top-R': ' ', 'mid-L': ' ', 'mid-M' : ' ', 'mid-R': ' ','low-L': ' ', 'low-M' : ' ', 'low-R': ' '}
 
 def printBoard(board):
@@ -9,4 +10,8 @@ def printBoard(board):
 
 solutions = []
 
-player = input("Are you X or O? ")
+#Choosing player
+def choosingPlayer(player):
+    while player not in ["X", "O"]:
+        player = input("Are you X or O: ").upper()
+    return player
