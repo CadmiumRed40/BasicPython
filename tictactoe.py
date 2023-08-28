@@ -21,3 +21,5 @@ def choosingPlayer(player):
         else:
             print("Thats not X or O. Choose one.")
             continue
+
+
