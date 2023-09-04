@@ -23,3 +23,6 @@ def choosingPlayer(player):
             continue
 
 
+# Placing your X or O
+
+def playerTurn()
