@@ -35,3 +35,5 @@ Dynamic and static typing can often be confused with strong and weakly typed han
 In short, Python is a dynamic, strongly typed language. Meaning that its variables can be defined and redefined through its compilation and as the variables are defined they remain clear and are not misinterpreted as the program runs. Errors will be caught if definitions are unclear or a conflict is found between variables and functions, allowing the author to fix the error before the program crashes.
 
 #Dynamic-Typing #Strongly-Typed
+
+Back to [[Python Basics]] 

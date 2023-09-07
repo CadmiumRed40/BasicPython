@@ -1,6 +1,6 @@
 ### Guide
 
-0.  [[About Python]]
+0.  [[About Python ]]
 1. [[Datatypes]]
 2. [[Iteration]]
 3. [[Functions]]

@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "About Python.md",
+                "file": "Datatypes.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "About Python.md",
+                "file": "Datatypes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "About Python.md",
+                "file": "Datatypes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "About Python.md"
+                "file": "Datatypes.md"
               }
             }
           }
@@ -159,7 +159,9 @@
   "active": "b1223225d32197be",
   "lastOpenFiles": [
     "Python Basics.md",
+    "Datatypes.md",
     "About Python.md",
+    "About Python Typing.md",
     "Strings.md"
   ]
 }
