@@ -51,7 +51,17 @@ strings that sit next to each other are automatically concatenated.
 
 print( 'py' 'thon') = 'python'
 
-But you cannot concatenate a string literal with anything else.
+But you cannot concatenate a string literal with anything else. You can also use parentheses to break up a long string while writing a program
+
+		str = ("This is beyond crazy because there is nothing like"
+				"a beach towel that is still wet after a month in the dirty bin.")
+		
+		=
+		
+		"This is beyond crazy because there is nothing like a beach towel that is still wet after a month in the dirty bin."
+
+
+
 
 
 
