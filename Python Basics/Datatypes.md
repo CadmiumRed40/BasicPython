@@ -61,7 +61,15 @@ But you cannot concatenate a string literal with anything else. You can also use
 		"This is beyond crazy because there is nothing like a beach towel that is still wet after a month in the dirty bin."
 
 
+### Slicing 
 
+Slicing is a way to obtain substrings and can be used to target a specific part of a string. A value like [2:8] means from the 2nd position in a string to the 8th position. The last position will not be included in the value extracted so if you wanted true position 2 to 8 you'd have to write the range of [2:9]. Slicing also has some defaults that make writing faster. 
+
+[:1] would indicate that the default slicing position would start at 0 (the first number of the datatype).
+[4:] would indicate from position 4 to the end of the datatype
+[-2:] would indicate 2 positions from the right (2nd to last) of the datatype to the end
+
+Indexing using negative numbers means the position starts from the right of the datatype, basically being a reverse indicator of the position you're referencing.
 
 
 
