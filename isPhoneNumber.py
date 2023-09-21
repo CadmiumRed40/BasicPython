@@ -16,3 +16,7 @@ def isPhoneNumber(text): # Checking to see if an entered value is a phone number
                 return False # missing last 4 digits
     return True
         
+#test
+
+isPhoneNumber('Hello')
+isPhoneNumber('914-245-2345')
