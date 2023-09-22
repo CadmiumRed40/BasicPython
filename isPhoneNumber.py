@@ -20,3 +20,12 @@ def isPhoneNumber(text): # Checking to see if an entered value is a phone number
 
 isPhoneNumber('Hello')
 isPhoneNumber('914-245-2345')
+
+message = 'Call me at 402-263-2344, or at 246-342-1745 to reach my personal line'
+foundNumber = False
+for i in range(len(message)):
+    chunk = message[i:i+12]
+    if isPhoneNumber(chunk):
+        print('Phone number found: ' + chunk)
+if not foundNumber:
+    print('Could not find a phone number')
