@@ -11,24 +11,15 @@
             "id": "9933d382ee7126ec",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "b1223225d32197be",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
-                "file": "Datatypes.md",
+                "file": "Iteration.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -95,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Datatypes.md",
+                "file": "Iteration.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Datatypes.md",
+                "file": "Iteration.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Datatypes.md"
+                "file": "Iteration.md"
               }
             }
           }
@@ -156,12 +147,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b1223225d32197be",
+  "active": "9933d382ee7126ec",
   "lastOpenFiles": [
     "Python Basics.md",
+    "Iteration.md",
+    "About Python Typing.md",
     "Datatypes.md",
     "About Python.md",
-    "About Python Typing.md",
     "Strings.md"
   ]
 }
